@@ -1,0 +1,28 @@
+# 1. Python Artifacts (File rác khi chạy code)
+__pycache__/
+*.py[cod]
+*.so
+
+# 2. Virtual Environment (Không đẩy thư viện lên Git)
+venv/
+env/
+.env
+.venv/
+
+# 3. IDE Settings (Cấu hình riêng của máy bạn)
+.vscode/
+.idea/
+
+# 4. Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# 5. MLOps - Data & Models
+# Chúng ta sẽ dùng DVC để quản lý bọn này, không dùng Git
+data/raw/*.csv
+data/processed/*.csv
+models/*.pkl
+models/*.joblib
+
+# 6. DVC internals (Chỉ giữ lại file config, bỏ cache nặng)
+.dvc/cache
+.dvc/tmp

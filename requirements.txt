@@ -1,0 +1,17 @@
+# Data Manipulation
+pandas
+numpy
+
+# Machine Learning
+scikit-learn
+xgboost
+
+# MLOps - Version Control & Tracking
+dvc             # Quản lý version dữ liệu
+mlflow          # Quản lý thí nghiệm (experiment tracking)
+
+# Development & Utilities
+jupyter         # Để chạy notebook
+pytest          # Để test code (Phase 4)
+matplotlib      # Vẽ biểu đồ
+seaborn
