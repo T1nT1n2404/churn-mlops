@@ -15,3 +15,8 @@ jupyter         # Để chạy notebook
 pytest          # Để test code (Phase 4)
 matplotlib      # Vẽ biểu đồ
 seaborn
+
+#fastapi
+fastapi
+uvicorn
+pydantic

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/t1nt1n/customer-churn-mlops/mlruns/931607122707359478/cfcf9c53c29e43a1ad25276bfcdab408/artifacts
+end_time: 1764472933357
+entry_point_name: ''
+experiment_id: '931607122707359478'
+lifecycle_stage: active
+run_id: cfcf9c53c29e43a1ad25276bfcdab408
+run_name: able-fawn-549
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764472931824
+status: 3
+tags: []
+user_id: t1nt1n

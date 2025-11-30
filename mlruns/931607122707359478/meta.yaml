@@ -1,0 +1,6 @@
+artifact_location: file:///home/t1nt1n/customer-churn-mlops/mlruns/931607122707359478
+creation_time: 1764423799924
+experiment_id: '931607122707359478'
+last_update_time: 1764423799924
+lifecycle_stage: active
+name: churn-prediction-baseline

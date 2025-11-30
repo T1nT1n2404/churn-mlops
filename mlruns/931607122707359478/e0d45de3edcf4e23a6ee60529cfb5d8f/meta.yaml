@@ -1,0 +1,14 @@
+artifact_uri: file:///home/t1nt1n/customer-churn-mlops/mlruns/931607122707359478/e0d45de3edcf4e23a6ee60529cfb5d8f/artifacts
+end_time: 1764423919424
+entry_point_name: ''
+experiment_id: '931607122707359478'
+lifecycle_stage: active
+run_id: e0d45de3edcf4e23a6ee60529cfb5d8f
+run_name: vaunted-hawk-347
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764423918065
+status: 3
+tags: []
+user_id: t1nt1n
